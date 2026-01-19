@@ -57,7 +57,7 @@
 | :--- | :--- | :--- |
 | **ft_transcendence** | **Full Stack & DevOps**<br>TypeScript, React, Monitoring & ELK System, Docker, Microservices | 🚀 *Completed (42 Kocaeli)*<br>Managed Frontend and DevOps processes. |
 | **Split Bill App** | **Mobile Developer**<br>Flutter, OCR, Offline-First Architecture | 📱 *In Development*<br>Bill splitting app with receipt scanning (OCR). |
-| **Speech-to-Text** | **Backend Developer**<br>Go (Golang), Gemini API | 🎙️ *Prototype*<br>AI-powered voice processing service. |
+| **Speech-to-Text** | **Backend Developer**<br>Go (Golang), Gemini API | 🎙️ *Completed*<br>AI-powered voice processing service. |
 | **Online Exam System** | **Full Stack**<br>Python (Flask), PostgreSQL | 🎓 *Completed*<br>Comprehensive exam system developed for university coursework. |
 | **Private DevOps Tools** | **DevOps Engineer**<br>Monitoring & ELK System, Docker, CI/CD | 🔒 *Confidential*<br>Corporate automation and infrastructure projects. |
 
