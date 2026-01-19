@@ -55,11 +55,11 @@
 
 | Proje | Rol & Teknoloji | Durum |
 | :--- | :--- | :--- |
-| **ft_transcendence** | **Full Stack & DevOps**<br>TypeScript, NestJS, Docker, Microservices, Blockchain | 🚀 *Tamamlandı (42 Kocaeli)*<br>Frontend ve DevOps süreçlerini yönettim. |
+| **ft_transcendence** | **Full Stack & DevOps**<br>TypeScript, React, Monitoring & ELK System, Docker, Microservices | 🚀 *Tamamlandı (42 Kocaeli)*<br>Frontend ve DevOps süreçlerini yönettim. |
 | **Split Bill App** | **Mobile Developer**<br>Flutter, OCR, Offline-First Architecture | 📱 *Geliştirme Aşamasında*<br>Fiş tarama özellikli hesap bölüştürme uygulaması. |
 | **Speech-to-Text** | **Backend Developer**<br>Go (Golang), Gemini API | 🎙️ *Prototip*<br>Yapay zeka destekli ses işleme servisi. |
-| **Online Exam System** | **Full Stack**<br>Python (Flask), React, PostgreSQL | 🎓 *Tamamlandı*<br>Okul projesi için geliştirilen kapsamlı sınav sistemi. |
-| **Private DevOps Tools** | **DevOps Engineer**<br>Ansible, Terraform, CI/CD | 🔒 *Gizli*<br>Kurumsal otomasyon ve altyapı projeleri. |
+| **Online Exam System** | **Full Stack**<br>Python (Flask), PostgreSQL | 🎓 *Tamamlandı*<br>Okul projesi için geliştirilen kapsamlı sınav sistemi. |
+| **Private DevOps Tools** | **DevOps Engineer**<br>Monitoring & ELK System, Docker, CI/CD | 🔒 *Gizli*<br>Kurumsal otomasyon ve altyapı projeleri. |
 
 <h2>🐍 Katkı Ekosistemi</h2>
 <div align="center">
