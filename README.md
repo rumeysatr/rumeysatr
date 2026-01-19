@@ -61,11 +61,4 @@
 | **Online Exam System** | **Full Stack**<br>Python (Flask), PostgreSQL | 🎓 *Completed*<br>Comprehensive exam system developed for university coursework. |
 | **Private DevOps Tools** | **DevOps Engineer**<br>Monitoring & ELK System, Docker, CI/CD | 🔒 *Confidential*<br>Corporate automation and infrastructure projects. |
 
-<h2>🐍 Contribution Ecosystem</h2>
-<div align="center">
-  <img src="https://github.com/rumeysatr/rumeysatr/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
-</div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff" width="100%" />
-</div>
