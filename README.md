@@ -15,17 +15,17 @@
     <td valign="top" width="50%">
       <h2>🚀 About Me</h2>
       <p>
-        Merhaba! Ben <b>Rümeysa</b>;
+        Hello! I'm <b>Rümeysa</b>;
       </p>
       <ul>
-        <li>🎓 <b>Bilgisayar Mühendisliği 3. Sınıf</b> öğrencisiyim.</li>
-        <li>🦈 <b>42 Kocaeli</b> eğitimini tamamlayarak C ve C++ ile low-level sistem mimarisinde uzmanlaştım.</li>
-        <li>☁️ Şu anda <b>DevOps, Microservices ve Cloud Architecture</b> üzerine yoğunlaşıyorum.</li>
-        <li>🔒 <b>Gizli Projeler:</b> GitHub'da görünmeyen private repolarımda, kurumsal ölçekli CI/CD pipeline'ları ve otomasyon araçları geliştiriyorum.</li>
+        <li>🎓 I am a <b>3rd-year Computer Engineering</b> student.</li>
+        <li>🦈 I have completed the <b>42 Kocaeli</b> curriculum, specializing in low-level system architecture with C and C++.</li>
+        <li>☁️ Currently focusing on <b>DevOps, Microservices, and Cloud Architecture</b>.</li>
+        <li>🔒 <b>Private Projects:</b> Developing enterprise-scale CI/CD pipelines and automation tools in private repositories not visible here.</li>
       </ul>
       <div align="center">
         <a href="mailto:0704rumeysatatar@gmail.com">
-          <img src="https://img.shields.io/badge/Bana_Ulaşın-Mail-d1289a?style=for-the-badge&logo=gmail" />
+          <img src="https://img.shields.io/badge/Contact_Me-Mail-d1289a?style=for-the-badge&logo=gmail" />
         </a>
       </div>
     </td>
@@ -41,31 +41,31 @@
   </tr>
 </table>
 
-<h2>📊 GitHub Analitiği</h2>
+<h2>📊 GitHub Analytics</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rumeysatr&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumeysatr&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=8&hide=html,css,jupyter%20notebook" height="180" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rumeysatr&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&locale=en" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumeysatr&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=8&hide=html,css,jupyter%20notebook&locale=en" height="180" alt="languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rumeysatr&theme=radical&hide_border=true&background=0d1117&date_format=j%20M%5B%20Y%5D" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rumeysatr&theme=radical&hide_border=true&background=0d1117&date_format=j%20M%5B%20Y%5D&locale=en" alt="streak" />
 </div>
 
-<h2>🧬 Öne Çıkan Projeler & Mimari Çalışmalar</h2>
+<h2>🧬 Featured Projects & Architectural Work</h2>
 
-| Proje | Rol & Teknoloji | Durum |
+| Project | Role & Tech | Status |
 | :--- | :--- | :--- |
-| **ft_transcendence** | **Full Stack & DevOps**<br>TypeScript, React, Monitoring & ELK System, Docker, Microservices | 🚀 *Tamamlandı (42 Kocaeli)*<br>Frontend ve DevOps süreçlerini yönettim. |
-| **Split Bill App** | **Mobile Developer**<br>Flutter, OCR, Offline-First Architecture | 📱 *Geliştirme Aşamasında*<br>Fiş tarama özellikli hesap bölüştürme uygulaması. |
-| **Speech-to-Text** | **Backend Developer**<br>Go (Golang), Gemini API | 🎙️ *Prototip*<br>Yapay zeka destekli ses işleme servisi. |
-| **Online Exam System** | **Full Stack**<br>Python (Flask), PostgreSQL | 🎓 *Tamamlandı*<br>Okul projesi için geliştirilen kapsamlı sınav sistemi. |
-| **Private DevOps Tools** | **DevOps Engineer**<br>Monitoring & ELK System, Docker, CI/CD | 🔒 *Gizli*<br>Kurumsal otomasyon ve altyapı projeleri. |
+| **ft_transcendence** | **Full Stack & DevOps**<br>TypeScript, React, Monitoring & ELK System, Docker, Microservices | 🚀 *Completed (42 Kocaeli)*<br>Managed Frontend and DevOps processes. |
+| **Split Bill App** | **Mobile Developer**<br>Flutter, OCR, Offline-First Architecture | 📱 *In Development*<br>Bill splitting app with receipt scanning (OCR). |
+| **Speech-to-Text** | **Backend Developer**<br>Go (Golang), Gemini API | 🎙️ *Prototype*<br>AI-powered voice processing service. |
+| **Online Exam System** | **Full Stack**<br>Python (Flask), PostgreSQL | 🎓 *Completed*<br>Comprehensive exam system developed for university coursework. |
+| **Private DevOps Tools** | **DevOps Engineer**<br>Monitoring & ELK System, Docker, CI/CD | 🔒 *Confidential*<br>Corporate automation and infrastructure projects. |
 
-<h2>🐍 Katkı Ekosistemi</h2>
+<h2>🐍 Contribution Ecosystem</h2>
 <div align="center">
   <img src="https://github.com/rumeysatr/rumeysatr/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=100&section=footer&text=Ziyaretiniz%20için%20teşekkürler!&fontSize=20&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff" width="100%" />
 </div>
