@@ -1,50 +1,91 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=300&section=header&text=Rümeysa%20TATAR&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20DevOps%20Developer%20%7C%2042%20Kocaeli%20Alumni&descSize=20&descAlignY=55&descAlign=50" width="100%" />
-</div>
+<!-- =========================
+     rumeysatr / Profile README
+     ========================= -->
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Building+Scalable+Infrastructures+%F0%9F%9A%80;DevOps+%26+Cloud+Native+Enthusiast+%E2%98%81%EF%B8%8F;Go+%26+Python+Developer+%F0%9F%90%8D;42+Kocaeli+Network+%F0%9F%92%BB;Architecting+the+Future..." alt="Typing SVG" />
-  </a>
-</div>
+<p align="center">
+  <!-- Capsule header (remote SVG) -->
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=R%C3%BCmeysa%20TATAR&fontAlignY=40&desc=DevOps%20%7C%2042%20Kocaeli%20Graduate%20%7C%20Systems%20%26%20Automation&descAlignY=62&animation=twinkling&color=gradient"
+    alt="Header"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <!-- Typing SVG -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=700&lines=DevOps+%26+Platform+Engineering;Docker+%7C+Linux+%7C+Observability+(Prometheus%2FGrafana%2FELK);42+Kocaeli+Core+Completed+%E2%9C%85;C%2FC%2B%2B98+%7C+Python+%7C+TypeScript;Always+building%2C+always+learning"
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
+  <!-- Quick badges -->
+  <img src="https://img.shields.io/badge/DevOps-Automation-informational?style=for-the-badge" alt="DevOps" />
+  <img src="https://img.shields.io/badge/Linux-Systems-informational?style=for-the-badge" alt="Linux" />
+  <img src="https://img.shields.io/badge/Observability-Metrics%20%26%20Logs-informational?style=for-the-badge" alt="Observability" />
+</p>
 
 ---
 
+## 👋 About Me
+- 🎓 **42 Kocaeli** core eğitimini tamamladım; şimdi daha çok **uzmanlaşma projeleri** ve gerçek dünya sistemleri üzerinde ilerliyorum.
+- 🔧 Private olsa da aktif olarak **DevOps/Platform** projeleri yapıyorum: containerization, monitoring/logging, CI/CD ve otomasyon.
+- 🧠 “Engineering mindset”: ölç, görünür kıl, otomatikleştir.
+
+---
+
+## 🧰 Tech Stack (signal, not noise)
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,git,githubactions,nginx,postgres,prometheus,grafana,elasticsearch,redis,py,c,cpp,ts,react&perline=9" />
+</p>
+
+---
+
+## 📊 GitHub Dashboard
+
+<!-- Two-column layout using HTML table (GitHub-safe) -->
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h2>🚀 Hakkımda</h2>
-      <p>
-        Merhaba! Ben <b>Rumeysa</b>. İsviçre çakısı gibi bir mühendislik vizyonuyla, sistemlerin sadece çalışmasını değil, <b>ölçeklenebilir</b> ve <b>otonom</b> olmasını sağlıyorum.
-      </p>
-      <ul>
-        <li>🎓 <b>Bilgisayar Mühendisliği 3. Sınıf</b> öğrencisiyim.</li>
-        <li>🦈 <b>42 Kocaeli</b> eğitimini tamamlayarak C ve C++ ile low-level sistem mimarisinde uzmanlaştım.</li>
-        <li>☁️ Şu anda <b>DevOps, Microservices ve Cloud Architecture</b> üzerine yoğunlaşıyorum.</li>
-        <li>🔒 <b>Gizli Projeler:</b> GitHub'da görünmeyen private repolarımda, kurumsal ölçekli CI/CD pipeline'ları ve otomasyon araçları geliştiriyorum.</li>
-        <li>🔭 Şu anki Odak: <b>Go (Golang)</b> ile yüksek performanslı backend servisleri.</li>
-      </ul>
-      <div align="center">
-        <a href="mailto:seninmailin@example.com">
-          <img src="https://img.shields.io/badge/Bana_Ulaşın-Mail-d1289a?style=for-the-badge&logo=gmail" />
-        </a>
-        <a href="https://www.linkedin.com/in/rumeysatur/">
-          <img src="https://img.shields.io/badge/LinkedIn-Profilim-0077B5?style=for-the-badge&logo=linkedin" />
-        </a>
-      </div>
+
+### 🔥 Streak
+<img
+  src="https://streak-stats.demolab.com?user=rumeysatr&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=tr"
+  alt="GitHub Streak"
+  width="100%"
+/>
+
+### ⭐ Core Stats
+<img
+  src="https://github-readme-stats.vercel.app/api?username=rumeysatr&show_icons=true&hide_border=true&rank_icon=github"
+  alt="GitHub Stats"
+  width="100%"
+/>
+
     </td>
     <td valign="top" width="50%">
-      <h2>🛠️ Teknoloji Yığını</h2>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=go,python,c,cpp,rust,java&theme=dark" /><br/>
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,aws,gcp,jenkins,gitlab,grafana,prometheus,nginx,bash&theme=dark" /><br/>
-        <img src="https://skillicons.dev/icons?i=ts,react,flutter,html,css,tailwind&theme=dark" /><br/>
-        <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,git,vscode,idea&theme=dark" />
-      </p>
+
+### 🧠 Languages (public)
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumeysatr&layout=compact&hide_border=true"
+  alt="Top Languages"
+  width="100%"
+/>
+
+### 🧩 Deep Metrics (auto-generated)
+<!-- This file is generated by .github/workflows/metrics.yml -->
+<img
+  src="./github-metrics.svg"
+  alt="Metrics"
+  width="100%"
+/>
+
     </td>
   </tr>
 </table>
 
+---
 <h2>📊 GitHub Analitiği</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rumeysatr&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117" height="180" alt="stats" />
@@ -73,3 +114,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff" width="100%" />
 </div>
+
+
