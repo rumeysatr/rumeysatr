@@ -34,7 +34,7 @@
       <p align="center">
         <img src="https://skillicons.dev/icons?i=go,python,c,cpp,dotnet,java&theme=dark" /><br/>
         <img src="https://skillicons.dev/icons?i=docker,linux,gitlab,grafana,prometheus,nginx,bash&theme=dark" /><br/>
-        <img src="https://skillicons.dev/icons?i=ts,react,flutter,html,css,tailwind&theme=dark" /><br/>
+        <img src="https://skillicons.dev/icons?i=js,react,flutter,html,css,tailwind&theme=dark" /><br/>
         <img src="https://skillicons.dev/icons?i=postgres,git,vscode,idea&theme=dark" />
       </p>
     </td>
