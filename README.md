@@ -47,9 +47,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumeysatr&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=8&hide=html,css,jupyter%20notebook&locale=en" height="180" alt="languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rumeysatr&theme=radical&hide_border=true&background=0d1117&date_format=j%20M%5B%20Y%5D&locale=en" alt="streak" />
-</div>
 
 <h2>🧬 Featured Projects & Architectural Work</h2>
 
