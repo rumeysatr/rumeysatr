@@ -41,12 +41,6 @@
   </tr>
 </table>
 
-<h2>📊 GitHub Analytics</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rumeysatr&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&locale=en" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumeysatr&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=8&hide=html,css,jupyter%20notebook&locale=en" height="180" alt="languages" />
-</div>
-
 
 <h2>🧬 Featured Projects & Architectural Work</h2>
 
